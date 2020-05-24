@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585221529 source:c:\users\vibhu\desktop\arrays\max_of_subset\main.cpp
+	<iostream>
+	<deque>
+
